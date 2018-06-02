@@ -1,2 +1,0 @@
-# Ushakeit
-Undian bersifat Shake
